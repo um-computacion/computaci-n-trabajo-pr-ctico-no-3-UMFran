@@ -1,4 +1,5 @@
-from exceptions import ingrese_numero
+'''
+    from exceptions import ingrese_numero
 
 def main():
     """
@@ -18,3 +19,4 @@ def main():
 
 if __name__ == "__main__":
     main() 
+'''
