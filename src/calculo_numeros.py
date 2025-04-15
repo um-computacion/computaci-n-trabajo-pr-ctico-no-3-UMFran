@@ -1,5 +1,6 @@
-'''
-    from exceptions import ingrese_numero
+
+from exceptions import ingrese_numero
+from exceptions import NumeroDebeSerPositivo
 
 def main():
     """
@@ -19,4 +20,3 @@ def main():
 
 if __name__ == "__main__":
     main() 
-'''
